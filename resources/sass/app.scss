@@ -1,0 +1,18 @@
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+.icon-heading {
+    display: flex;
+    align-items: center;
+}
+
+.heading-text {
+    margin-left: 10px;
+}
+
+footer .fixed-bootom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
